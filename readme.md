@@ -22,5 +22,4 @@ Este proyecto es un proyecto escolar para la materia de: Programación De Aplica
 
 
 ### Video de funcionamiento:
-[![video][Video de funcionamiento]](Funcionamiento.WEBM)
-![Consultar registro](Funcionamiento.WEBM)
+<video src="Funcionamiento.mp4" width="320" height="240" controls></video>
