@@ -22,5 +22,5 @@ Este proyecto es un proyecto escolar para la materia de: Programación De Aplica
 
 
 ### Video de funcionamiento:
-[![video][Video de funcionamiento]](Funcionamiento.WEPM)
-![Consultar registro](Funcionamiento.WEPM)
+[![video][Video de funcionamiento]](Funcionamiento.WEBM)
+![Consultar registro](Funcionamiento.WEBM)
