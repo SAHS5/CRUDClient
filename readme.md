@@ -22,4 +22,8 @@ Este proyecto es un proyecto escolar para la materia de: Programación De Aplica
 
 
 ### Video de funcionamiento:
+
+[Video de funcionamiento (Youtube)](https://youtu.be/KVGV5SzL4IU)
+
+
 <video src="Funcionamiento.mp4" width="320" height="240" controls></video>
