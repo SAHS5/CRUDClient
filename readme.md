@@ -6,7 +6,7 @@ Este proyecto es un proyecto escolar para la materia de: Programación De Aplica
 
 
 ### Imagen: Pantalla de consulta.
-![Consultar registro](Screenshot/Consultar.jpg)
+![Consultar registro](Screenshot/Consulta.jpg)
 
 
 ### Imagen: Pantalla de insertado de datos.
